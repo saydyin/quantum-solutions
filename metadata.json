@@ -1,0 +1,8 @@
+{
+  "name": "Quantum Solutions: Cipher Suite",
+  "description": "An advanced cryptographic toolkit for encoding and decoding messages. Explore a wide range of ciphers, from historical algorithms like Vigenère and Playfair to modern digital schemes, all within a sleek, modern interface.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
